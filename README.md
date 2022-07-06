@@ -1,6 +1,6 @@
 # Pig game
 
-[Pig game](https://pashakin.github.io/pig-game-2019/) is a first project coded by following the instructions of [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/?persist_locale=&locale=en_US), created by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman).
+[Pig game](https://pashakin.github.io/pig-game-2019/) is a first project coded by following the instructions of [The Complete JavaScript Course 2019](https://www.udemy.com/course/the-complete-javascript-course/?persist_locale=&locale=en_US), created by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman).
 
 In this project I mastered:
 
